@@ -1,0 +1,25 @@
+{
+  "name": "event-bus-ts",
+  "version": "1.0.0",
+  "description": "一个mini的事件管理器",
+  "main": "main.ts",
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "keywords": [
+    "typescript",
+    "event",
+    "js",
+    "bus"
+  ],
+  "author": "jarl",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.18"
+  }
+}

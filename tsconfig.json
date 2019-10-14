@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    // 告诉编辑器你需要的语法提示的版本
+    "downlevelIteration": true, // 对迭代语法的支持
+    "lib": [
+      "es6"
+    ]
+  }
+}
